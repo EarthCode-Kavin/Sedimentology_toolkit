@@ -1,0 +1,9 @@
+numpy>=1.23
+pandas>=1.5
+matplotlib>=3.6
+scipy>=1.9
+openpyxl>=3.1
+reportlab>=4.0
+# Optional, for running/executing the notebooks:
+jupyter>=1.0
+notebook>=6.5

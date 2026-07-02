@@ -1,0 +1,6 @@
+sample,mean_phi,mean_um,mean_class,median_phi,sorting_sigma,sorting,skewness_Sk,skewness,kurtosis_KG,kurtosis,modality,C_um,M_um,C_over_M,transport,gravel_pct,sand_pct,silt_pct,clay_pct,folk_class,shepard_class,visher_environment
+BCH-01,1.63,323,medium sand,1.63,0.32,very well sorted,-0.0,near-symmetrical,1.03,mesokurtic,unimodal,533,322,1.7,Uniform suspension / sorted traction,0.0,99.2,0.8,0.0,Sand,Sand,"Mixed transport - traction 32%, saltation 66%, suspension 2%"
+BCH-02,1.55,341,medium sand,1.55,0.32,very well sorted,0.03,near-symmetrical,1.0,mesokurtic,unimodal,573,343,1.7,Uniform suspension / sorted traction,0.0,99.2,0.8,0.0,Sand,Sand,Aeolian dune sand - exceptional saltation sorting
+BCH-03,1.83,281,medium sand,1.82,0.32,very well sorted,0.04,near-symmetrical,1.01,mesokurtic,unimodal,471,283,1.7,Uniform suspension / sorted traction,0.0,99.2,0.8,0.0,Sand,Sand,"Mixed transport - traction 41%, saltation 58%"
+BCH-04,1.65,319,medium sand,1.65,0.32,very well sorted,0.01,near-symmetrical,1.04,mesokurtic,unimodal,526,320,1.6,Uniform suspension / sorted traction,0.0,99.2,0.8,0.0,Sand,Sand,"Mixed transport - traction 30%, saltation 70%"
+BCH-05,1.77,294,medium sand,1.77,0.31,very well sorted,0.0,near-symmetrical,1.03,mesokurtic,unimodal,487,294,1.7,Uniform suspension / sorted traction,0.0,99.2,0.8,0.0,Sand,Sand,"Mixed transport - traction 47%, saltation 52%"
