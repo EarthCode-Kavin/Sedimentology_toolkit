@@ -82,8 +82,8 @@ The **Master_Workflow** notebook runs all seven at once.
 ### Offline (Anaconda recommended)
 
 ```bash
-git clone https://github.com/<your-user>/Sedimentology-GrainSize.git
-cd Sedimentology-GrainSize
+git clone https://github.com/EarthCode-Kavin/Sedimentology_toolkit.git
+cd Sedimentology_toolkit/Sedimentology-GrainSize
 
 # Option A - conda
 conda env create -f environment.yml
@@ -271,21 +271,21 @@ for f in sorted(glob.glob("sample_data/*.csv")):
 
 Grain-size histogram (Wentworth-coloured, mean/median/mode marked):
 
-![histogram](docs/images/screenshot_histogram.png)
+![histogram](Sedimentology-GrainSize/docs/images/screenshot_histogram.png)
 
 Visher log-probability transport-population plot:
 
-![probability](docs/images/screenshot_probability.png)
+![probability](Sedimentology-GrainSize/docs/images/screenshot_probability.png)
 
 Folk ternary classification and Passega C-M diagram:
 
-![folk](docs/images/screenshot_folk_ternary.png)
-![cm](docs/images/screenshot_passega_cm.png)
+![folk](Sedimentology-GrainSize/docs/images/screenshot_folk_ternary.png)
+![cm](Sedimentology-GrainSize/docs/images/screenshot_passega_cm.png)
 
 PDF report cover and a per-sample page:
 
-![report cover](docs/images/screenshot_report_cover.png)
-![report sample](docs/images/screenshot_report_sample.png)
+![report cover](Sedimentology-GrainSize/docs/images/screenshot_report_cover.png)
+![report sample](Sedimentology-GrainSize/docs/images/screenshot_report_sample.png)
 
 ## Example datasets
 
@@ -326,7 +326,7 @@ methods:
   title  = {Sedimentology-GrainSize: a reproducible grain-size analysis toolkit},
   year   = {2026},
   note   = {Version 1.0.0},
-  url    = {https://github.com/<your-user>/Sedimentology-GrainSize}
+  url    = {https://github.com/EarthCode-Kavin/Sedimentology_toolkit}
 }
 ```
 
